@@ -1,0 +1,3 @@
+data aa;
+set as;
+run;
